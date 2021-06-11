@@ -1,4 +1,7 @@
 # backup
+chmod 700 backup.sh
+* * * * * 
+
 
 인증키
 
